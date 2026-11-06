@@ -1,2 +1,1 @@
-# clash-auto-rules-releases
-Clash 规则管理 的官方发行与下载
+<https://github.com/ZxIngNG/clash-auto-rules-releases/releases/latest/download/clash-auto-rules-win-x64.zip>
